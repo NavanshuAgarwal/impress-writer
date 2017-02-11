@@ -12,7 +12,7 @@ Authors:
 
 How to Run:
 
-    first install bs4,requests using pip
+    first install bs4,requests,pygtkspellcheck using pip
 
     also install Gtk 3.0 if not present
 
@@ -54,4 +54,4 @@ DevGuide:
 
 some code is taken from http://python-gtk-3-tutorial.readthedocs.io/en/latest/textview.html
 
-and is of great help https://automatetheboringstuff.com/
+and https://automatetheboringstuff.com/ was helpful for web scraping.
