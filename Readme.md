@@ -1,4 +1,10 @@
 #Impress Writer
+Objective: 
+	
+	Impress Writer is an application engineered with the aim of helping its user to enhance their literary creations and 
+	embellish them with the usage of better words. Built entirely using Python, the application dynamically fetches and 		suggests synonyms for the text typed in by the user. Boasting of additional features such as a built in Dictionary,
+	Spell Check and basic text-editing capabilities, Impress Writer utilises the Beautiful Soup and GTK Libraries of Python
+	for web scraping and the implementation of the GUI
 
 Authors:
 
